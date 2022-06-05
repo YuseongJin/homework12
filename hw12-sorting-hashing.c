@@ -264,8 +264,6 @@ int insertionSort(int *a)//삽입정렬 함수
 	return 0;//종료
 }
 
-
-
 int bubbleSort(int *a)//버블정렬 함수
 {
 	int i, j, t;
