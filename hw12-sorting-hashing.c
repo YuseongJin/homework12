@@ -187,7 +187,6 @@ void printArray(int *a)//배열 출력 함수
 	printf("\n");
 }
 
-
 int selectionSort(int *a)//선택정렬 함수
 {
 	int min;//최솟값
@@ -225,7 +224,6 @@ int selectionSort(int *a)//선택정렬 함수
 	printArray(a);//출력
 	return 0;//종료
 }
-
 
 int insertionSort(int *a)//삽입정렬 함수
 {
