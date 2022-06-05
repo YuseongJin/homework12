@@ -452,6 +452,3 @@ int search(int *ht, int key)//검색 함수
 	}
 	return index;//index값 반환
 }
-
-
-
