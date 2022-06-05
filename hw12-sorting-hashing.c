@@ -338,7 +338,6 @@ int shellSort(int *a)//셸 정렬 함수
 	return 0;//종료
 }
 
-
 int quickSort(int *a, int n)//퀵정렬 함수
 {
 	int v, t;
